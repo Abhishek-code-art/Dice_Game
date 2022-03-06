@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  margin: auto;
+  background-color: #393E46;
+}
+
+/* Header section */
+h1 {
+  margin: 30px;
+  font-size: 8rem;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+}
+
+/* Dice Section */
+div {
+  margin: 80px auto 40px;
+}
+
+.dice p {
+  display: inline-block;
+  margin: auto 90px;
+  font-family: "Indie Flower", cursive;
+  font-size: 2rem;
+  color: #4ECCA3;
+}
+
+/* Image section */
+img {
+  width: 12%;
+}
+
+.first-image {
+  margin-right: 50px;
+}
+.second-image {
+  margin-left: 90px;
+}
+
+/* Button */
+button {
+  margin-top: 20px;
+  position: absolute;
+  right: 47%;
+  display: flex;
+  justify-content: center;
+}
+
+.b-color {
+  border-radius: 5px;
+  border: solid #4ECCA3;
+  background-color: #fff;
+  background-color: #4ECCA3;
+}
+
+.footer-style {
+  height: 50px;
+  padding-top: 40px;
+  margin-top: 50px;
+  color: #fff;
+}
